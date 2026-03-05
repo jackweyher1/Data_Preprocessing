@@ -1,3 +1,6 @@
+# Ignore the dataset folder
+dataset/
+
 # DS_Store File
 .DS_Store
 
