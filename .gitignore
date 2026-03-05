@@ -1,7 +1,7 @@
 # Block the path to the large bank fraud dataset
-/Users/jackweyher/Desktop/Data\ Science/Machine\ Learning/Data\ Preprocessing/Imbalanced\ Data/Bank\ Fraud\ Project/dataset 
+"Imbalanced Data"/"Bank Fraud Project"/dataset/
 
-# Byte-compiled / optimized / DLL files
+#  Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
