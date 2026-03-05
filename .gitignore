@@ -1,3 +1,6 @@
+# DS_Store File
+.DS_Store
+
 # Block the path to the large bank fraud dataset
 Imbalanced Data/Bank Fraud Project/dataset/
 
