@@ -1,3 +1,6 @@
+# Block the path to the large bank fraud dataset
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
