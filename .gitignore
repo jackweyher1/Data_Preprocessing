@@ -2,7 +2,7 @@
 .DS_Store
 
 # Block the path to the large bank fraud dataset
-Imbalanced_Data/Bank_Fraud_Project/dataset/
+02_imbalanced_data/Bank_Fraud_Project/dataset/
 
 #  Byte-compiled / optimized / DLL files
 __pycache__/
