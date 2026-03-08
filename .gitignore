@@ -1,3 +1,6 @@
+# Virtual Environments
+.venv/
+
 # DS_Store File
 .DS_Store
 
